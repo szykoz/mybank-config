@@ -2,7 +2,7 @@ build:
   info: "1.0"
 
 accounts:
-  message: "Welcome to SzymixBank - accounts related microservice (dev)"
+  message: "Welcome to MyBank - accounts related microservice (dev)"
   contactDetails:
     name: "szymon koziol - Developer"
     email: "szymon@koziol.pl"
