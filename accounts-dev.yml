@@ -1,5 +1,5 @@
 build:
-  info: "1.0"
+  version: "1.0"
 
 accounts:
   message: "Welcome to MyBank - accounts related microservice (dev)"
