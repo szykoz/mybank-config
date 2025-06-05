@@ -1,1 +1,11 @@
+build:
+  info: "1.0"
 
+accounts:
+  message: "Welcome to SzymixBank - accounts related microservice (dev)"
+  contactDetails:
+    name: "szymon koziol - Developer"
+    email: "szymon@koziol.pl"
+  onCallSupport:
+    - "(+48) 555-1234"
+    - "(+48) 543-1234"
