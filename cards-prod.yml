@@ -1,1 +1,11 @@
+build:
+  version: "2.0"
 
+accounts:
+  message: "Welcome to MyBank - cards related microservice"
+  contactDetails:
+    name: "Andrzej Duda- Product Owner"
+    email: "anrzej@duda.pl"
+  onCallSupport:
+    - "(+48) 555-6666"
+    - "(+48) 543-6666"
