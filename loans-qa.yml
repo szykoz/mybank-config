@@ -1,1 +1,10 @@
-
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to MyBank - loans related microservice (QA)"
+  contactDetails:
+    name: "Jan Kołolski- QA Lead"
+    email: "jan@qa.pl"
+  onCallSupport:
+    - "(+48) 555-4444"
+    - "(+48) 543-4444"
