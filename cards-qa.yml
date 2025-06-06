@@ -1,6 +1,6 @@
 build:
   version: "2.0"
-accounts:
+cards:
   message: "Welcome to MyBank - cards related microservice (QA)"
   contactDetails:
     name: "Jan Kołolski- QA Lead"
