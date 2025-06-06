@@ -1,6 +1,7 @@
 build:
   version: "1.0"
-accounts:
+  
+loans:
   message: "Welcome to MyBank - loans related microservice (QA)"
   contactDetails:
     name: "Jan Kołolski- QA Lead"
