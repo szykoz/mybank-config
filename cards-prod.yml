@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 cards:
-  message: "Welcome to MyBank - cards related microservice"
+  message: "Welcome to MyBank - cards related microservice [webhook test]"
   contactDetails:
     name: "Andrzej Duda- Product Owner"
     email: "anrzej@duda.pl"
