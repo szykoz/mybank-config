@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MyBank - accounts related microservice (dev) webhook test"
+  message: "Welcome to MyBank - accounts related microservice (dev)"
   contactDetails:
     name: "szymon koziol - Developer"
     email: "szymon@koziol.pl"
