@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to MyBank - accounts related microservice"
+  message: "Welcome to MyBank - accounts related microservice (edited)"
   contactDetails:
     name: "Andrzej Duda- Product Owner"
     email: "anrzej@duda.pl"
