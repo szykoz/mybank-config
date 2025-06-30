@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to MyBank - accounts related microservice"
   contactDetails:
     name: "Andrzej D.- Product Owner"
-    email: "anrzej@duda.pl"
+    email: "anrzej@d.pl"
   onCallSupport:
     - "(+48) 555-6666"
     - "(+48) 543-6666"
